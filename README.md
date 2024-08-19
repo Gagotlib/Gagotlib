@@ -1,6 +1,6 @@
 ### Hello!
 
-I'm Gabriel. A year ago, I dove into the world of programming, mainly focusing on web development. Since January 2024, I've been attending a Bootcamp at Henry to become a Fullstack Developer. During this course, I have learned many new technologies, including: Next.js, React.js, JavaScript, TypeScript, CSS, Tailwind, HTML, Node.js, Express, Git, GitHub, and more.
+I'm Gabriel. In 2023, I dove into the world of programming, mainly focusing on web development. Since January 2024, I've been attending a Bootcamp at Henry to become a Fullstack Developer. During this course, I have learned many new technologies, including: Next.js, React.js, JavaScript, TypeScript, CSS, Tailwind, HTML, Node.js, Express, Git, GitHub, and more.
 
 
 Additionally, I have taken courses offered by Microsoft and the Government of the City of Buenos Aires, where I learned the fundamentals of Python.
@@ -19,7 +19,7 @@ Personally, I consider myself a positive, adaptable person with a desire to lear
 
 ### Hola!
 
-Soy Gabriel. Hace un año que me sumergí en el mundo de la programacion, principalmente en el desarrollo web. 
+Soy Gabriel. En el año 2023 me sumergí en el mundo de la programacion, principalmente en el desarrollo web. 
 Desde enero 2024 estoy cursando en Henry un Bootcamp para ser Fullstack Developer. Durante esta cursada he aprendido muchas tecnologias nuevas, entre ellas: Next.js, React.js, JavaScript, TypeScript, CSS, Tailwind, HTML, Node.js, Express, Git, GitHub y mas.. 
 
 Ademas, realicé cursos dictados por Microsoft y el Gobierno de la Ciudad de Buenos Aires, donde aprendí los fundamentos de Python.
